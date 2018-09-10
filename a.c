@@ -1,9 +1,6 @@
-ofjfjpowejkfiowejiofjweioj
+#include <stdio.h>
+void main(){	
+	
+	printf("hello world\n");
+}
 
-
-
-eiojfiowejfioejifieowjfijweofjiwojfeojfio
-ew9fjweiojf
-xdiofjklrjwekl
-choiewoipf
-ojfoiwjeoif
